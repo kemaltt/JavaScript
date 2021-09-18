@@ -25,7 +25,7 @@ if (key=='cancel' ){
 
     console.log('cancelled');
     
-} else if (key=='2134') {
+} else if (key=='2135') {
 
     console.log('Welcome Admin');
     
@@ -37,10 +37,7 @@ if (key=='cancel' ){
   
 {
 
-    
 }
-
-
 
 
 } else {
