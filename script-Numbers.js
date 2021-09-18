@@ -97,6 +97,7 @@ var toplamNetMaas = toplamBrutMaas - (toplamBrutMaas*0,25);
 console.log(toplamBrutMaas);
 console.log(toplamBrutMaas.toFixed(2),toplamNetMaas.toFixed(2));
 
+// Devam ediyoruz
 
 
 
