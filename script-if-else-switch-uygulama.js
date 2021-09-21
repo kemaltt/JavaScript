@@ -1,3 +1,4 @@
+
 // 20.04.2017 de trafiğeçıkan aracın servis bakım süreleri aşağıda verilmiş.
 //  bu bilgileregöre servis uyarısı versin
 
@@ -65,6 +66,7 @@ if (result == 'cancel') {
     }
 
 
+
 } else {
     console.log('I dont know');
 
@@ -73,6 +75,7 @@ if (result == 'cancel') {
 {
 
 }
+
 
 
 
