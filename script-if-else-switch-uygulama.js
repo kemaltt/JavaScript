@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-=======
-
->>>>>>> 671e76e74419a9b2551913cd7299695fa24cc826
 // 20.04.2017 de trafiğeçıkan aracın servis bakım süreleri aşağıda verilmiş.
 //  bu bilgileregöre servis uyarısı versin
 
@@ -32,7 +28,6 @@ if (trafikGun<=365) {
 }{
     
 }
-<<<<<<< HEAD
 console.log(trafikGun);
 
 //------------------------------------------------------------------------------------------------
@@ -68,12 +63,6 @@ if (result == 'cancel') {
     {
 
     }
-=======
-  
-{
-
-}
->>>>>>> 671e76e74419a9b2551913cd7299695fa24cc826
 
 
 } else {
@@ -85,14 +74,6 @@ if (result == 'cancel') {
 
 }
 
-<<<<<<< HEAD
 
 
 
-=======
-
-
-
-
- 
->>>>>>> 671e76e74419a9b2551913cd7299695fa24cc826

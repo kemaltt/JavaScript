@@ -1,7 +1,7 @@
   // Date Object
 
-//   let d = new Date();
-//   let birthday = new Date(1986,11,1);
+  let d = new Date();
+  let birthday = new Date(1986,11,1);
 
 // // Set methods
   
