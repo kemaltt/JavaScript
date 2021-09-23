@@ -198,8 +198,8 @@ var aracBilgileri = [
 
 ];
 
-console.log(aracBilgileri[0]);
-console.log(aracBilgileri[0].id);
+console.log(aracBilgileri[2]);
+console.log(aracBilgileri[1].id);
 console.log(aracBilgileri[0].model);
 console.log(aracBilgileri[0].renk);
 console.log(aracBilgileri[0].servisKayitlari);
