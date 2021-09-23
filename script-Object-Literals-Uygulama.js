@@ -198,7 +198,7 @@ var aracBilgileri = [
 
 ];
 
-console.log(aracBilgileri[2]);
+console.log(aracBilgileri[1]);
 console.log(aracBilgileri[1].id);
 console.log(aracBilgileri[0].model);
 console.log(aracBilgileri[0].renk);
